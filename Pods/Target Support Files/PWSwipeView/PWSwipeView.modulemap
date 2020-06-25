@@ -1,0 +1,6 @@
+module PWSwipeView {
+  umbrella header "PWSwipeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

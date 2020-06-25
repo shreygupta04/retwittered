@@ -1,0 +1,1 @@
+../../../Target Support Files/PWSwipeView/PWSwipeView-umbrella.h
