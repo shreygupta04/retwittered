@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/shreygupta/Documents/ComputerScience/iOS/TwitterDesign/TwitterDesign/Views/TweetView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:TwitterDesign.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
